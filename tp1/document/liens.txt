@@ -1,1 +1,5 @@
 https://github.com/BernieTech88/LocationVoitures
+
+https://tp1locationvoitures.e1995103.webdevmaisonneuve.ca/
+
+sur noc utilise la version 7 de php certaines ligne de la classe crud.php ne sont pas supportées
